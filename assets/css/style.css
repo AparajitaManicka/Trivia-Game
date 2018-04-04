@@ -1,0 +1,25 @@
+#count{
+    padding-left: 20px;
+    color: green;
+    font-size: 25px;
+}
+body{
+    line-height:1.5;
+    font-size:22px;
+    color: white;
+}
+html { 
+    background: url(assets/images/triviabackground.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    #quiz{
+        float: right;
+        margin: 20px;
+        overflow: auto;
+        width: 50%;
+        height: 500px;
+    
+    }
